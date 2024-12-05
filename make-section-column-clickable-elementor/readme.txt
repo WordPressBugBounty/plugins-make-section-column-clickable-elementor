@@ -1,13 +1,13 @@
 ﻿===Make Section & Column Clickable Elementor===
-Contributors: saju4wordpress
+Contributors: saju4wordpress, wecodexwp
 Donate Link: https://www.buymeacoffee.com/riyadh1734
 Author URI: http://sajuahmed.epizy.com/
 Plugin URI: https://wordpress.org/plugins/make-section-column-clickable-elementor
 Tags: section clickable, column clickable, elementor section, elementor column.
 Requires at least: 5.2
-Tested up to: 6.6
-Elementor tested up to: 3.23.3
-Stable tag: 2.0
+Tested up to: 6.7
+Elementor tested up to: 3.25.10
+Stable tag: 2.1
 License: GPLv2 or later 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -111,6 +111,11 @@ Yes.
 * Compatible with WordPress version
 * Compatible with Elementor version
 * Add Appsero SDK
+
+= 2.1 =
+
+* Compatible with WordPress version
+* Compatible with Elementor version
 
 == Upgrade notice ==
 N/A.
