@@ -5,9 +5,9 @@ Author URI: http://sajuahmed.epizy.com/
 Plugin URI: https://wordpress.org/plugins/make-section-column-clickable-elementor
 Tags: section clickable, column clickable, elementor section, elementor column.
 Requires at least: 5.2
-Tested up to: 6.7
-Elementor tested up to: 3.25.10
-Stable tag: 2.1
+Tested up to: 6.8
+Elementor tested up to: 3.28.4
+Stable tag: 2.2
 License: GPLv2 or later 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -113,6 +113,11 @@ Yes.
 * Add Appsero SDK
 
 = 2.1 =
+
+* Compatible with WordPress version
+* Compatible with Elementor version
+
+= 2.2 =
 
 * Compatible with WordPress version
 * Compatible with Elementor version
