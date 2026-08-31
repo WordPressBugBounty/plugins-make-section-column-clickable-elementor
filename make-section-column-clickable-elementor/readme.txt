@@ -5,9 +5,9 @@ Author URI: http://sajuahmed.epizy.com/
 Plugin URI: https://wordpress.org/plugins/make-section-column-clickable-elementor
 Tags: section clickable, column clickable, elementor section, elementor column.
 Requires at least: 5.2
-Tested up to: 6.9
-Elementor tested up to: 3.34
-Stable tag: 2.4.1
+Tested up to: 7.1
+Elementor tested up to: 4.2.3
+Stable tag: 2.4.5
 License: GPLv2 or later 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -147,6 +147,11 @@ Yes.
 * Cleaner frontend markup
 * CSP-friendly implementation
 * Improved long-term security hardening
+
+= 2.4.5 =
+
+* Compatible with WordPress version
+* Compatible with Elementor version
 
 == Upgrade notice ==
 N/A.
